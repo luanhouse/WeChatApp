@@ -1,0 +1,7 @@
+<view class="containter">
+    <image class="user-avater" src="/images/head.jpg"></image>
+    <text class="user-name">Hello，浩子</text>
+    <view class="moto-containter">
+        <text class="moto">开启小程序之旅</text>
+    </view>
+</view>
